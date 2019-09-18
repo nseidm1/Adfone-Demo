@@ -2,8 +2,8 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <data>
-        <variable name="data" type="com.noahseidman.adphone.viewmodels.PostViewModel"/>
-        <variable name="callback" type="com.noahseidman.adphone.interfaces.PostCallback"/>
+        <variable name="data" type="com.noahseidman.adfone.viewmodels.PostViewModel"/>
+        <variable name="callback" type="com.noahseidman.adfone.interfaces.PostCallback"/>
     </data>
     <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="wrap_content"
                                        android:layout_marginTop="12dp" android:padding="12dp">
