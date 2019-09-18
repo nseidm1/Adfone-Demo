@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AdFone Demo</string>
+    <string name="client_id">e6539c09f60e4b92b40a45f087ff71e0</string>
+    <string name="callback_url">https://instagram.com/</string>
+    <string name="base_url">https://api.instagram.com/</string>
+    <string name="redirect_url">http://noahseidman.com</string>
+    <string name="auth_url">https://www.instagram.com/oauth/authorize/?client_id=%s&amp;redirect_uri=%s&amp;response_type=token</string>
+    <string name="user_stream">User Stream</string>
+    <string name="login">Login</string>
+    <string name="nothing_yet">No Posts Yet…</string>
+</resources>
